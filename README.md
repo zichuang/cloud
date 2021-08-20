@@ -1,6 +1,6 @@
 孜创私有云、文档管理软件、图库管理软件、企业网盘、校园网盘软件，目前是中文版，英文版及多国语言版将会在后期发布</br>
 您可以访问官网 http://www.ziccloud.com </br>
-软件的试用地址 http://demo6.ziccloud.com  管理员用户 admin  密码 111111</br>
+软件的试用地址 http://demo6.ziccloud.com     管理员用户 admin  密码 111111  </br>
 
 安装在您自己服务器上(或云端服务器)的私有云存储软件</br>
 像windows一样操作简单，无须培训</br>

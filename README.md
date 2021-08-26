@@ -46,7 +46,7 @@
     </div>
     <div class="" style=" overflow:hidden; padding:0px">
         <fieldset class="layui-elem-field">
-            <legend><span style="font-weight:600">1、搭建到企业自己服务器上的“私有云存储平台”“企业网盘”“文档管理软件”</span></legend>
+          <legend><span style="font-weight:600"><b>1、搭建到企业自己服务器上的“私有云存储平台”“企业网盘”“文档管理软件”</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall">
                     软件安装到企业自己的服务器上，自己的服务器，硬盘空间自己说了算，网络带宽自己说了算。文档更安全、运行更快速高效。
@@ -54,7 +54,7 @@
             </div>
         </fieldset>
       <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span style="font-weight:600">2、电脑Web端+手机Web端+WinForm客户端+手机APP</span></legend>
+            <legend><span style="font-weight:600"><b>2、电脑Web端+手机Web端+WinForm客户端+手机APP</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     WEB端：打开浏览器访问，打开IE、谷歌浏览器、火狐、360等浏览器等，输入内网IP地址、或外网IP地址、或网址进行访问。
@@ -67,7 +67,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>3、像使用windows一样简单，只要会windows就会操作本软件</span></legend>
+            <legend><span><b>3、像使用windows一样简单，只要会windows就会操作本软件</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     系统界面和windows资源管理器相似，在页面上采用右键菜单功能，与windows文件夹操作一样。<br />
@@ -76,7 +76,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>4、统一管理文档</span></legend>
+            <legend><span><b>4、统一管理文档</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     把所有文件文档，可以全部放到一台服务器上管理，每个人电脑可以不需要保存文件，只需通过浏览器来访问操作服务器上的文件。<br />
@@ -85,7 +85,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>5、海量存储</span></legend>
+            <legend><span><b>5、海量存储</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     存储量达到十几T级容量(1000G=1T),访问速度依然很快。所有的SQL语句已做到最优化，并采用缓存和延迟技术。
@@ -93,7 +93,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>6、分布式、多点存储</span></legend>
+            <legend><span><b>6、分布式、多点存储</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     支持一台服务器上多个存储区域存储。支持多台服务器存储。
@@ -101,7 +101,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>7、精细的权限划分</span></legend>
+            <legend><span><b>7、精细的权限划分</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     对每个用户的权限进行分配，可以精细到页面上的每一个操作按钮，指定有无权限。对右键菜单每一项，也可以进行权限分配设置
@@ -138,7 +138,7 @@
             </div>
             </fieldset>
             <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>8、支持所有文件类型的存储、访问</span></legend>
+            <legend><span><b>8、支持所有文件类型的存储、访问</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     支持任何的文件类型，任何文件都可以存储到本软件内
@@ -146,7 +146,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>9、文档类型准入制</span></legend>
+            <legend><span><b>9、文档类型准入制</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                         设置哪些文件类型是可以存储的，哪些文件类型是不能存储的。过滤非法的或有安全隐患的文件类型不能存储。由超级管理员来设置。
@@ -154,7 +154,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>10、支持图片缩略图(包括位图和矢量图)</span></legend>
+            <legend><span><b>10、支持图片缩略图(包括位图和矢量图)</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     <div>图片生成缩略图，可以快速预览</div>
@@ -165,7 +165,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>11、图片水印</span></legend>
+            <legend><span><b>11、图片水印</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以给图片添加水印，防止图片被盗用。<br />
@@ -176,7 +176,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>12、文档水印，PDF水印、Word、PPT水印等</span></legend>
+            <legend><span><b>12、文档水印，PDF水印、Word、PPT水印等</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     给PDF、word、ppt等文档类型设置水印，指定某些用户的权限在查看文档时，显示添加过水印的文档，并且无法下载。<br />
@@ -184,7 +184,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>13、对视频文件的支持，支持视频文件在线播放</span></legend>
+            <legend><span><b>13、对视频文件的支持，支持视频文件在线播放</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     支持多种视频播放格式，如FLV、MP4、SWF等，在线播放。
@@ -192,7 +192,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>14、PC客户端，支持所有文档类型的在线编辑、在线查看，支持Word、Excel、PPT、Txt、PDF文件的在线查看、在线编辑</span></legend>
+            <legend><span><b>14、PC客户端，支持所有文档类型的在线编辑、在线查看，支持Word、Excel、PPT、Txt、PDF文件的在线查看、在线编辑</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     支持所有文档类型的在线编辑、在线查看
@@ -200,7 +200,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>15、支持快捷方式</span></legend>
+            <legend><span><b>15、支持快捷方式</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以象windows那样，创建一个文件的快捷方式，到另一个文本夹，快捷方式只是指向文件的路径，并不是真正的文件。这样节省了硬盘空间的占用，更不会有同一个文件多处存在的现象。快捷方式不占用磁盘空间。
@@ -208,7 +208,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>16、Web端支持批量上传文件，上传文件夹</span></legend>
+            <legend><span><b>16、Web端支持批量上传文件，上传文件夹</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     批量上传文件、图片，上传文件夹。远程大批量上传文件功能。 可对上传文件类型和大小的控制限制的功能。
@@ -216,7 +216,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>17、Web端支持拖拽上传</span></legend>
+            <legend><span><b>17、Web端支持拖拽上传</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     鼠标拖拽文件至web界面，实现拖拽上传。
@@ -224,7 +224,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>18、支持断点续传、秒传、超大文件上传</span></legend>
+            <legend><span><b>18、支持断点续传、秒传、超大文件上传</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     支持超大文件上传，断点续传。上传超大文件时，可能会因网络原因，发生上传中断。当再次上传该文件时，会从中断的文件位置开始上传。<br />
@@ -233,7 +233,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>19、PC客户端 支持同步上传文件、实时上传文件</span></legend>
+            <legend><span><b>19、PC客户端 支持同步上传文件、实时上传文件</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     PC客户端，支持上传文件、上传文件夹、监控某个文件夹并实时上传文件。
@@ -241,7 +241,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>20、强大的检索查询功能</span></legend>
+            <legend><span><b>20、强大的检索查询功能</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     如何在海量文档库中找到自己想要使用的一个文档呢，本系统提供多种查询条件，可以在海量的文档库中，进行搜索，从而找到所需要的文件。可以模糊搜索，按名称、日期时间、点击率、文件大小、文件类型等进行组合搜索。
@@ -249,7 +249,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>21、自定义文件属性（文件标签）</span></legend>
+            <legend><span><b>21、自定义文件属性（文件标签）</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     这一点对于文件的查找非常重要。可以自己定义任何的文件属性（标签），例如管理一个服装的图片文档库，可以在每张图片上添加“面料”“颜色”“价格”“尺寸”等属性（标签）。 在综合查询时，可以按照“面料”“颜色”“价格”“尺寸”等属性（标签）进行查询。
@@ -257,7 +257,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>22、自定义文件夹的属性</span></legend>
+            <legend><span><b>22、自定义文件夹的属性</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     与自定义文件属性一样。
@@ -265,7 +265,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>23、虚拟文件夹、虚拟分类（多级）</span></legend>
+            <legend><span><b>23、虚拟文件夹、虚拟分类（多级）</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以设置虚拟的文件夹（可以分层级，子文件夹），并可以把文件归类到虚拟文件夹里。一个文件可以放到多个虚拟文件夹里。这样可以使文件的分类和查找更加快捷。
@@ -273,7 +273,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>24、用户之间，互相共享、发送文件</span></legend>
+            <legend><span><b>24、用户之间，互相共享、发送文件</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     在本软件系统内部，进行文件的互相共享。例如A共享一个文件给B，也可以共享一个文件给一个部门（角色范围）所有人员。<br />
@@ -282,7 +282,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>25、对外共享一组的图片或文件（共享文件夹），分享到微信朋友圈、QQ空间</span></legend>
+            <legend><span><b>25、对外共享一组的图片或文件（共享文件夹），分享到微信朋友圈、QQ空间</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以共享一组图片或文件，可以共享文件夹。<br />
@@ -293,7 +293,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>26、多个界面皮肤颜色的选择</span></legend>
+            <legend><span><b>26、多个界面皮肤颜色的选择</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以选择自己喜欢的皮肤界面颜色，提高用户体验感受度。长时间使用不再单调
@@ -301,7 +301,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>27、全文检索、查找WORD、TXT文件内部内容</span></legend>
+            <legend><span><b>27、全文检索、查找WORD、TXT文件内部内容</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以根据一段文字 ，来查找包含该文字的WORD文档。即可以“检索查找WORD文档的内容”。从而快速找到定位该文件。
@@ -309,7 +309,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>28、查找相同图片、文件，去除重复文件</span></legend>
+            <legend><span><b>28、查找相同图片、文件，去除重复文件</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     一个图片或文件 ，可能存放在多个文件夹内，造成重复存放，占用存储空间。查找相同图片的功能，可以查找指定图片、文件是否有重复的存在，并统计显示出来。
@@ -317,7 +317,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>29、以图找图功能</span></legend>
+            <legend><span><b>29、以图找图功能</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     根据一张图片，查找出图库中与该图片相似或相近的图片。<br />
@@ -327,7 +327,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>30、保存查询条件</span></legend>
+            <legend><span><b>30、保存查询条件</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以保存您当前的检索查询条件，下一次查询可以直接打开上次保存的查询条件，直接查询，无须再次输入查询条件。
@@ -335,7 +335,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>31、文件审核</span></legend>
+            <legend><span><b>31、文件审核</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可开启文档审核功能，新增加的文件需经过审核审批，才能正式显示在文档库中。
@@ -343,7 +343,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>32、文件监控</span></legend>
+            <legend><span><b>32、文件监控</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     从文档的创建开始，文档的查看、修改、删除，都将被记录。
@@ -351,7 +351,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>33、多方面的统计功能</span></legend>
+            <legend><span><b>33、多方面的统计功能</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     1）、共有多少文件、共有多少目录、共有多少文件类型。
@@ -361,7 +361,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>34、查看当前在线用户</span></legend>
+            <legend><span><b>34、查看当前在线用户</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     管理员可以看到当前有多少用户在线登陆，正在操作软件。
@@ -369,7 +369,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>35、用户自己的存储空间</span></legend>
+            <legend><span><b>35、用户自己的存储空间</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     1）、每个用户可以有自己的存储空间。可以存储自己的文件，只能自己看到，其他人没有权限看到（超级管理员除外）<br />
@@ -379,7 +379,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>36、服务器文件扫描</span></legend>
+            <legend><span><b>36、服务器文件扫描</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     对指定的服务器文件夹进行扫描，把文件保存到本系统。<br>
@@ -388,7 +388,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>37、用户操作、登陆日志，系统日志</span></legend>
+            <legend><span><b>37、用户操作、登陆日志，系统日志</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     1）、用户操作日志: 记录用户查看了哪些文件，新建上传了哪些文件、删除文件等操作日志。<br />
@@ -399,7 +399,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>38、支持windows域</span></legend>
+            <legend><span><b>38、支持windows域</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     支持windows域，windows域的每台电脑，在访问时，直接获取当前电脑的域的用户名，无须再次登陆，直接进入系统。
@@ -407,7 +407,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>39、二维码</span></legend>
+            <legend><span><b>39、二维码</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     根据每个文件的ULR、文件名、其他属性信息，生成二维码。
@@ -415,7 +415,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>40、读取图片的EXIF信息</span></legend>
+            <legend><span><b>40、读取图片的EXIF信息</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     EXIF指图片文件本身自带的拍摄时间日期、相机类型、焦距、作者等信息，可读取图片的EXIF信息，并可按照EXIF信息进行查询。
@@ -423,7 +423,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>41、设置文件夹图标</span></legend>
+            <legend><span><b>41、设置文件夹图标</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     设置文件夹图标，更好的识别文件夹里的内容。
@@ -434,7 +434,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>42、拒绝某个IP地址登陆</span></legend>
+            <legend><span><b>42、拒绝某个IP地址登陆</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以设置拒绝某个IP地址的登陆本系统，防止恶意登陆带来的安全风险
@@ -442,7 +442,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>43、指定某个IP地址登陆</span></legend>
+            <legend><span><b>43、指定某个IP地址登陆</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以设置某用户的登陆，只能是指定的IP下登陆。这样可以锁定某用户的登陆只能在自己电脑上登陆，不能在其他电脑的登陆。确保了账户安全。
@@ -450,7 +450,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>44、可以指定某登陆用户为游客模式，这一点对一些摄影、设计公司非常重要</span></legend>
+            <legend><span><b>44、可以指定某登陆用户为游客模式，这一点对一些摄影、设计公司非常重要</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     这一点对一些摄影、设计公司非常重要。例如某摄影公司给客户拍摄出照片，想让客户在家看到，进行选图，但又不想让客户下载的原图，防止图片泄露。
@@ -460,7 +460,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>45、每天自动生成以年月日为名称的文件夹</span></legend>
+            <legend><span><b>45、每天自动生成以年月日为名称的文件夹</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     可以设置某个文件夹，每天生成以年月日为名称的子文件夹，例如今天自动生成"20170427"子文件夹，明天自动生成"20170428"子文件夹。依次类推。
@@ -468,7 +468,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>46、在线压缩解压缩文件</span></legend>
+            <legend><span><b>46、在线压缩解压缩文件</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     <p>
@@ -484,7 +484,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>47、单点登录，可以连接到OA管理软件系统平台内、实现单点登陆</span></legend>
+            <legend><span><b>47、单点登录，可以连接到OA管理软件系统平台内、实现单点登陆</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     比如您公司已有一套OA管理系统，登陆OA管理系统后，再登陆本系统，无须再输入用户名和密码，而直接登陆进入。
@@ -492,14 +492,14 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>48、内网穿透、动态IP解析</span></legend>
+            <legend><span><b>48、内网穿透、动态IP解析</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall">内网穿透：什么是内网穿透，适用于在公司局域网的服务器电脑，该电脑可以访问互联网，但没有互联网IP地址。实现内网穿透，可以让该局域网电脑直接提供互联网服务，详情咨询客服。</div>
                 <div class="DivCommonSmall">动态解析外网IP地址：如果您公司的接入宽带没有固定的IP，属于类似拨号的动态IP，IP地址会过一段时间就会变化。这样的话，无法稳定的从互联网访问到公司的服务器。我们提供动态IP地址解析，只需要进入孜创私有云存储软件，开启动态IP解析就可以。</div>
 </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>49、软件运行效率</span></legend>
+            <legend><span><b>49、软件运行效率</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     数据库优化做到最佳，SQL语句优化做到最佳，逻辑优化做到最佳。
@@ -507,7 +507,7 @@
             </div>
         </fieldset>
         <fieldset class="layui-elem-field" style="margin-top:50px;">
-            <legend><span>50、可扩展，调用接口</span></legend>
+            <legend><span><b>50、可扩展，调用接口</b></span></legend>
             <div class="layui-field-box">
                 <div class="DivCommonSmall" style="text-align:left">
                     webpai接口，登陆接口、token授权字符串、文件夹接口、文件接口、查询接口、上传接口等。

@@ -2,6 +2,12 @@
 您可以访问官网 http://www.ziccloud.com </br>
 软件的试用地址 http://demo6.ziccloud.com     管理员用户 admin  密码 111111  </br>
 
+
+<b>一键安装部署至您本机，详见：http://cloud.ziccloud.com/Common/FileShare/71CF743459292638</b></br>
+
+
+
+
 安装在您自己服务器上(或云端服务器)的私有云存储软件</br>
 像windows一样操作简单，无须培训</br>
 海量存储、分布式存储</br>

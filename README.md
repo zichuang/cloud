@@ -186,6 +186,7 @@ http://user.ziccloud.com/Common/FileShare/ED4816FEAC33D0C6
 比如为 用户zhangsan设置为管理权限，授权用户zhangsan 具有 ‘添加用户’、‘设置用户权限’的功能菜单，让他变成有一定管理能力的管理员。
 
 
+
 <b>应用程序</b>
 
 

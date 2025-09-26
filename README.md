@@ -35,9 +35,7 @@
 9.	孜创私有云是对服务器的硬盘上的物理文件夹进行映射、同步。
 	孜创云存储软件是对服务器上的硬盘的物理文件结构进行扫描、映射和同步，不影响在服务器上直接打开使用文档，假如很久很久以后，不再使用本软件时，所有文档都归整的保存在服务器硬盘上，不受任何影响。
 	可以设置系统定期定时扫描服务器上的文档，使之同步。
-图文说明：http://user.ziccloud.com/Common/FileShare/02C833DA87BE07E1
-视频说明：http://user.ziccloud.com/Common/FileShare/3481424DCB6ECCE6
-http://user.ziccloud.com/Common/FileShare/ED4816FEAC33D0C6
+请参见视频说明文档：http://user.ziccloud.com/Common/DIRShare?UserCode=HELP&ShowDIRID=13857
 
 <b>文件存储模块</b>
 
